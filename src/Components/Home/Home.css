@@ -1,0 +1,21 @@
+.jumbotrone{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.title{
+    font-weight: bolder;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.card{
+    border: none;
+   
+}
+.jumbotrone img{
+    height: 280px;
+    width: 600px;
+}

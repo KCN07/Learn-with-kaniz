@@ -1,0 +1,15 @@
+.footer{
+    background-color: blue;
+    color: white;
+
+}
+
+.foo1{
+    text-align: left;
+}
+
+.foo2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}

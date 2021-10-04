@@ -1,0 +1,20 @@
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+.title2{
+    font-weight: bolder;
+    font-size: 60px;
+    font-family:'Times New Roman', Times, serif;
+}
+.top2{
+    background-color: blue;
+    color: white;
+    font-weight: bolder;
+    font-size: larger;
+}
+.slogan{
+    text-align: center;
+    width: 60%;
+    
+}
